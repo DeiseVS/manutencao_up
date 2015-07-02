@@ -1,0 +1,7 @@
+1 - Clonar
+
+2 - Commit
+
+3- No tortoisegit - Push
+
+4 - No tortoisegit -  Pull
